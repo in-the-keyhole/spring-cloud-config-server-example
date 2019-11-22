@@ -6,7 +6,7 @@ spring:
          server:
            git:   
              refreshRate: 5      
-             uri: https://github.com/bingliu2016/Config-Properties 
+             uri: https://github.com/in-the-keyhole/spring-cloud-configuration
              search-paths: 
               - '*ConfigrationFiles'
 
@@ -19,4 +19,4 @@ spring:
 #      config:
 #         server:           
 #            native:
-#               searchLocations: file:///C:/Users/bingl/git-repository/config-data         
+#               searchLocations: file:///C:/Users/userid/git-repository/config-data         
